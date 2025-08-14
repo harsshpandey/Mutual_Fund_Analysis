@@ -193,6 +193,7 @@ Potential improvements for this project:
 - **Real-time Data:** Integration with live mutual fund APIs
 - **Dashboard Creation:** Web-based dashboard for interactive exploration
 
+<img width="1167" height="654" alt="Image" src="https://github.com/user-attachments/assets/450bf18d-40ce-465e-960b-ad460b2968df" />
 ---
 
 *This project demonstrates the power of data analysis in making informed financial decisions.*
